@@ -1,0 +1,51 @@
+restaurant_id,name,cuisine_type,city,area,avg_rating,total_reviews,price_for_two,is_pure_veg,delivery_radius_km,avg_prep_time_mins,monthly_orders,monthly_revenue,commission_pct,partner_since,is_active,restaurant_type
+RST-201,Behrouz Biryani,Biryani,Bengaluru,Indiranagar,4.5,8420,600,No,5,25,4200,882000,18,2020-03-01,Yes,Cloud Kitchen
+RST-305,Burger King,Fast Food,Mumbai,Andheri,4.3,12300,400,No,4,15,6800,1122000,22,2019-06-15,Yes,QSR
+RST-112,Saravana Bhavan,South Indian,Delhi NCR,Connaught Place,4.6,9800,350,Yes,4,20,3900,721500,20,2020-09-10,Yes,Fine Dine
+RST-408,Paradise Biryani,North Indian,Hyderabad,Banjara Hills,4.7,15600,700,No,6,30,5100,1122000,18,2019-11-20,Yes,Casual Dining
+RST-210,Chow Man,Chinese,Bengaluru,Koramangala,4.0,4200,500,No,4,22,2800,560000,20,2021-04-05,Yes,Cloud Kitchen
+RST-320,McDonald's,Fast Food,Mumbai,Bandra,4.4,18900,350,No,3,12,8900,1246000,22,2018-08-01,Yes,QSR
+RST-515,EatFit,Healthy,Pune,Kothrud,4.7,6100,600,No,5,18,3200,768000,18,2021-01-15,Yes,Cloud Kitchen
+RST-130,Bade Miya,Biryani,Delhi NCR,Lajpat Nagar,4.2,7300,550,No,5,28,3600,720000,18,2020-07-22,Yes,Casual Dining
+RST-601,Murugan Idli Shop,South Indian,Chennai,T Nagar,4.5,11200,250,Yes,4,15,5800,812000,20,2019-05-10,Yes,Casual Dining
+RST-420,Cream Stone,Desserts,Hyderabad,Jubilee Hills,4.3,5600,400,Yes,4,10,4100,738000,22,2021-06-30,Yes,Casual Dining
+RST-205,Mainland China,Chinese,Bengaluru,UB City,4.6,9100,1200,No,5,35,2100,1260000,15,2019-02-14,Yes,Fine Dine
+RST-710,Arsalan,Biryani,Kolkata,Park Street,4.7,14200,600,No,5,30,4800,1056000,18,2019-08-08,Yes,Casual Dining
+RST-315,Bademiya,Fast Food,Mumbai,Colaba,4.2,8700,400,No,3,18,5200,832000,22,2020-04-18,Yes,Casual Dining
+RST-801,Honest Restaurant,North Indian,Ahmedabad,CG Road,4.4,7800,450,Yes,5,22,3800,798000,20,2020-11-05,Yes,Casual Dining
+RST-520,Grow Fit,Healthy,Pune,Wakad,4.6,3900,700,No,5,20,2600,650000,18,2022-02-20,Yes,Cloud Kitchen
+RST-140,Pind Balluchi,North Indian,Delhi NCR,South Extension,4.3,6400,800,Yes,5,28,2900,812000,20,2020-06-12,Yes,Casual Dining
+RST-615,Murugan's,South Indian,Chennai,Adyar,4.4,8900,280,Yes,4,15,5100,714000,20,2019-10-01,Yes,Casual Dining
+RST-220,Biryani By Kilo,Biryani,Bengaluru,Whitefield,4.5,10200,650,No,6,30,4600,966000,18,2020-01-25,Yes,Cloud Kitchen
+RST-430,Wow Momo,Fast Food,Hyderabad,Kukatpally,4.1,5800,300,No,4,15,4300,602000,22,2021-09-14,Yes,Casual Dining
+RST-330,KFC,Fast Food,Mumbai,Powai,4.4,14500,450,No,4,14,7200,1080000,22,2019-03-28,Yes,QSR
+RST-901,Truffles,North Indian,Bengaluru,Richmond Road,4.6,11800,800,No,5,30,3500,980000,18,2020-05-20,Yes,Casual Dining
+RST-155,Wow! Momo,Chinese,Delhi NCR,Saket,4.2,6200,350,No,4,18,3800,532000,22,2021-07-10,Yes,Casual Dining
+RST-720,Peter Cat,North Indian,Kolkata,Park Street,4.7,12900,900,No,5,35,2800,952000,18,2019-01-15,Yes,Fine Dine
+RST-530,Freshmenu,Healthy,Pune,Viman Nagar,4.5,4800,550,No,5,22,2900,696000,18,2021-11-30,Yes,Cloud Kitchen
+RST-815,Gordhan Thal,North Indian,Ahmedabad,Navrangpura,4.3,6900,500,Yes,5,25,3200,672000,20,2020-08-15,Yes,Casual Dining
+RST-230,Faasos,Fast Food,Bengaluru,HSR Layout,4.3,9400,400,No,5,16,5800,812000,22,2020-02-10,Yes,Cloud Kitchen
+RST-625,Anjappar,South Indian,Chennai,Nungambakkam,4.4,7600,400,Yes,4,20,4200,588000,20,2020-12-08,Yes,Casual Dining
+RST-340,Natural Ice Cream,Desserts,Mumbai,Juhu,4.6,13400,350,Yes,3,8,6900,690000,22,2019-07-04,Yes,Casual Dining
+RST-440,Biryani Zone,Biryani,Hyderabad,Secunderabad,4.3,8100,500,No,5,25,4400,880000,18,2021-03-22,Yes,Cloud Kitchen
+RST-165,Subway,Fast Food,Delhi NCR,Nehru Place,4.2,11200,400,No,4,12,5600,784000,22,2019-09-18,Yes,QSR
+RST-910,The Fatty Bao,Chinese,Bengaluru,Indiranagar,4.5,6800,1000,No,5,28,2200,880000,18,2021-08-25,Yes,Casual Dining
+RST-545,Biryani Blues,Biryani,Pune,Baner,4.4,5400,550,No,5,26,3100,620000,18,2021-10-14,Yes,Cloud Kitchen
+RST-730,Arsalan Express,Biryani,Kolkata,Gariahat,4.5,9600,500,No,4,25,4100,820000,18,2020-03-30,Yes,Cloud Kitchen
+RST-355,The Bowl Company,Healthy,Mumbai,Lower Parel,4.6,5100,600,No,5,18,2800,672000,18,2022-01-10,Yes,Cloud Kitchen
+RST-820,Patel's,Gujarati,Ahmedabad,Maninagar,4.2,8200,350,Yes,4,20,3900,546000,20,2020-09-22,Yes,Casual Dining
+RST-240,Social,Casual,Bengaluru,Koramangala,4.5,14200,1200,No,5,30,2900,1044000,15,2019-04-12,Yes,Casual Dining
+RST-635,Sangeetha,South Indian,Chennai,Velachery,4.3,9800,250,Yes,4,15,5400,675000,20,2020-06-28,Yes,Casual Dining
+RST-450,Chutneys,South Indian,Hyderabad,Madhapur,4.6,11400,400,Yes,4,18,5600,784000,20,2019-12-05,Yes,Casual Dining
+RST-170,Haldiram's,Snacks,Delhi NCR,Laxmi Nagar,4.4,16800,400,Yes,5,15,7800,858000,20,2018-11-20,Yes,Casual Dining
+RST-920,MTR,South Indian,Bengaluru,Lalbagh,4.7,18200,350,Yes,4,20,6100,793000,20,2018-06-15,Yes,Casual Dining
+RST-360,Domino's,Fast Food,Mumbai,Dadar,4.3,22400,500,No,5,18,9800,1470000,22,2018-03-01,Yes,QSR
+RST-555,Spice Kitchen,North Indian,Pune,Aundh,4.2,4900,600,No,5,25,2700,594000,20,2021-12-18,Yes,Cloud Kitchen
+RST-740,Oh! Calcutta,Bengali,Kolkata,Elgin Road,4.6,7800,1100,No,5,35,2100,882000,15,2020-01-08,Yes,Fine Dine
+RST-830,Gujarat Bhawan,Gujarati,Ahmedabad,Bodakdev,4.3,5600,400,Yes,4,18,3400,476000,20,2021-05-20,Yes,Casual Dining
+RST-250,Hammered,Pub Food,Bengaluru,Indiranagar,4.4,8900,1500,No,4,30,1800,810000,15,2020-10-15,Yes,Casual Dining
+RST-645,Anjappar Chettinad,South Indian,Chennai,Mylapore,4.5,10200,500,No,4,22,3900,682500,20,2020-07-14,Yes,Fine Dine
+RST-460,Pizza Hut,Fast Food,Hyderabad,Hitech City,4.2,13600,600,No,5,20,6200,992000,22,2019-04-30,Yes,QSR
+RST-180,Bukhara,North Indian,Delhi NCR,ITC Maurya,4.8,5200,3000,No,5,40,800,720000,12,2019-08-20,Yes,Fine Dine
+RST-930,Onesta,Fast Food,Bengaluru,JP Nagar,4.4,7100,500,No,5,16,4800,720000,22,2021-02-28,Yes,Casual Dining
+RST-370,The Bombay Canteen,Fusion,Mumbai,Lower Parel,4.6,9800,1800,No,5,35,1600,864000,15,2020-05-10,Yes,Fine Dine

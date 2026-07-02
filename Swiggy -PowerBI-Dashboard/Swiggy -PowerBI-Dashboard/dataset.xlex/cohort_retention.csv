@@ -1,0 +1,13 @@
+cohort_month,cohort_size,m0_retention,m1_retention,m2_retention,m3_retention,m4_retention,m5_retention,m6_retention
+Jan-2026,185000,100,68,54,46,40,36,34
+Feb-2026,172000,100,70,56,48,42,38,null
+Mar-2026,191000,100,71,57,49,43,null,null
+Apr-2026,168000,100,69,55,47,null,null,null
+May-2026,195000,100,73,60,null,null,null,null
+Jun-2026,204000,100,null,null,null,null,null,null
+Jul-2025,142000,100,64,51,43,37,33,31
+Aug-2025,156000,100,66,52,44,38,34,32
+Sep-2025,148000,100,67,53,45,39,35,33
+Oct-2025,162000,100,67,53,46,40,36,34
+Nov-2025,171000,100,68,54,46,41,36,34
+Dec-2025,188000,100,69,55,47,41,37,35

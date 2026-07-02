@@ -1,0 +1,9 @@
+cuisine,order_share_pct,revenue_share_pct,avg_order_value,avg_rating,avg_delivery_time_mins,yoy_growth_pct,top_city,peak_hour
+Biryani & Rice,22,24,218,4.4,29,19.2,Hyderabad,13:00
+Fast Food,19,17,178,4.3,24,16.8,Mumbai,13:00
+South Indian,14,12,171,4.5,23,14.4,Chennai,09:00
+North Indian,13,15,231,4.3,31,12.6,Delhi NCR,20:00
+Chinese,10,10,200,4.1,28,15.0,Bengaluru,19:00
+Healthy & Salads,8,9,225,4.6,22,34.2,Pune,08:00
+Desserts & Sweets,7,6,171,4.3,18,22.8,Hyderabad,16:00
+Others,7,7,200,4.2,27,11.4,Bengaluru,12:00
