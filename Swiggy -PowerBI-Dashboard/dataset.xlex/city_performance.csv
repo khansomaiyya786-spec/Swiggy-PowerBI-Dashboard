@@ -1,0 +1,16 @@
+city,state,total_orders_ytd,gross_order_value_cr,avg_order_value,active_users,restaurant_count,delivery_partners,avg_delivery_time_mins,market_share_pct,yoy_growth_pct,cancellation_rate_pct,top_cuisine
+Bengaluru,Karnataka,4920000,820,167,3800000,18400,52000,27.4,22.1,2.4,Biryani
+Mumbai,Maharashtra,4260000,710,167,3200000,16200,48000,29.2,19.8,2.7,Fast Food
+Delhi NCR,Delhi,4080000,680,167,3100000,15800,46000,31.4,17.4,3.1,North Indian
+Hyderabad,Telangana,2940000,490,167,2200000,11200,32000,28.6,21.3,2.6,Biryani
+Pune,Maharashtra,2280000,380,167,1700000,8600,24000,26.8,24.5,2.2,Fast Food
+Chennai,Tamil Nadu,2160000,360,167,1600000,8200,22000,28.2,20.1,2.5,South Indian
+Kolkata,West Bengal,1740000,290,167,1300000,6800,18000,32.6,15.2,3.4,Biryani
+Ahmedabad,Gujarat,1260000,210,167,950000,5200,14000,29.8,18.6,2.8,North Indian
+Jaipur,Rajasthan,720000,120,167,540000,3100,8000,30.4,26.2,2.9,North Indian
+Kochi,Kerala,600000,100,167,450000,2600,6800,27.6,28.4,2.3,South Indian
+Surat,Gujarat,540000,90,167,410000,2300,6200,28.8,23.1,2.6,Fast Food
+Lucknow,Uttar Pradesh,480000,80,167,360000,2100,5600,31.8,19.4,3.0,Biryani
+Indore,Madhya Pradesh,420000,70,167,315000,1900,5000,29.2,25.8,2.7,Street Food
+Chandigarh,Punjab,360000,60,167,270000,1600,4200,27.8,22.6,2.4,North Indian
+Bhopal,Madhya Pradesh,300000,50,167,225000,1400,3600,30.6,21.0,2.8,North Indian

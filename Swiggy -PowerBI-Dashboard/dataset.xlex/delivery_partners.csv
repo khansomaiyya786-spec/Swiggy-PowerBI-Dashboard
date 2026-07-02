@@ -1,0 +1,35 @@
+partner_id,name,city,vehicle_type,join_date,total_deliveries,avg_rating,on_time_rate_pct,acceptance_rate_pct,cancellation_rate_pct,avg_deliveries_per_day,monthly_earnings,is_active,experience_level
+DLV-1001,Ravi Kumar,Bengaluru,Bike,2022-04-10,2840,4.6,91,82,3,7.8,28400,Yes,Senior
+DLV-1002,Suresh Babu,Bengaluru,Bike,2023-01-15,1240,4.4,88,79,4,6.2,18600,Yes,Mid
+DLV-1003,Arjun Singh,Bengaluru,Scooter,2021-11-20,4100,4.7,93,85,2,8.1,32800,Yes,Senior
+DLV-1004,Mohammed Ali,Bengaluru,Bike,2024-02-05,480,4.2,84,74,6,5.4,9600,Yes,Junior
+DLV-1005,Kiran Gowda,Bengaluru,Scooter,2022-08-18,1980,4.5,90,81,3,7.2,23760,Yes,Mid
+DLV-2001,Raj Yadav,Mumbai,Bike,2022-02-12,3200,4.5,89,80,4,8.0,32000,Yes,Senior
+DLV-2002,Deepak Pawar,Mumbai,Scooter,2023-05-20,980,4.3,86,77,5,5.8,13720,Yes,Mid
+DLV-2003,Salman Khan,Mumbai,Bike,2021-09-08,4600,4.6,92,84,2,8.4,36800,Yes,Senior
+DLV-2004,Pravin Mane,Mumbai,Bike,2024-01-14,390,4.1,82,72,7,4.9,7020,Yes,Junior
+DLV-2005,Nitin Sawant,Mumbai,Scooter,2022-11-22,1560,4.4,88,78,4,6.8,18720,Yes,Mid
+DLV-3001,Amit Sharma,Delhi NCR,Bike,2022-06-05,2640,4.4,87,79,5,7.4,26400,Yes,Senior
+DLV-3002,Rohit Gupta,Delhi NCR,Bike,2023-03-18,1100,4.3,85,76,5,5.5,15400,Yes,Mid
+DLV-3003,Vikas Yadav,Delhi NCR,Scooter,2021-12-15,3800,4.5,90,82,3,8.0,30400,Yes,Senior
+DLV-3004,Sanjay Mishra,Delhi NCR,Bike,2024-03-10,320,4.0,81,71,8,4.5,6400,Yes,Junior
+DLV-3005,Pankaj Tiwari,Delhi NCR,Scooter,2023-01-28,1420,4.4,87,78,4,6.4,17040,Yes,Mid
+DLV-4001,Krishna Reddy,Hyderabad,Bike,2022-03-22,2480,4.5,90,81,3,7.6,22320,Yes,Senior
+DLV-4002,Venkatesh Rao,Hyderabad,Scooter,2023-07-10,840,4.3,85,75,5,5.6,11760,Yes,Mid
+DLV-4003,Ravi Teja,Hyderabad,Bike,2021-10-05,4200,4.7,93,86,2,8.2,33600,Yes,Senior
+DLV-4004,Suresh Naidu,Hyderabad,Bike,2024-02-20,280,4.1,82,72,7,4.2,5040,Yes,Junior
+DLV-4005,Hari Prasad,Hyderabad,Scooter,2022-09-14,1720,4.4,88,79,4,7.0,20640,Yes,Mid
+DLV-5001,Akash Patil,Pune,Bike,2022-05-18,2200,4.4,88,79,4,7.2,19800,Yes,Senior
+DLV-5002,Sagar Kulkarni,Pune,Scooter,2023-06-08,920,4.3,85,76,5,5.4,12880,Yes,Mid
+DLV-5003,Nilesh Jadhav,Pune,Bike,2022-01-25,2900,4.6,91,83,3,7.8,26100,Yes,Senior
+DLV-5004,Rahul Shinde,Pune,Bike,2024-04-01,180,4.0,80,70,8,3.8,3600,Yes,Junior
+DLV-6001,Murugan S,Chennai,Bike,2022-07-14,2060,4.4,88,80,4,7.0,18540,Yes,Senior
+DLV-6002,Selvam R,Chennai,Scooter,2023-04-22,1060,4.3,85,76,5,5.6,14840,Yes,Mid
+DLV-6003,Karthik M,Chennai,Bike,2021-08-10,4400,4.6,92,85,2,8.3,35200,Yes,Senior
+DLV-6004,Pradeep N,Chennai,Bike,2024-01-30,350,4.1,82,72,7,4.6,6300,Yes,Junior
+DLV-7001,Sourav Das,Kolkata,Bike,2022-04-20,1940,4.3,86,78,5,6.8,17460,Yes,Senior
+DLV-7002,Bikash Mondal,Kolkata,Scooter,2023-08-15,760,4.2,84,74,6,4.8,10640,Yes,Mid
+DLV-7003,Rahul Roy,Kolkata,Bike,2022-02-08,2500,4.5,89,81,3,7.4,22500,Yes,Senior
+DLV-8001,Dhruv Patel,Ahmedabad,Bike,2022-09-10,1820,4.3,86,78,5,6.6,16380,Yes,Mid
+DLV-8002,Jigar Shah,Ahmedabad,Scooter,2023-05-25,940,4.2,84,74,6,5.2,13160,Yes,Mid
+DLV-8003,Keval Modi,Ahmedabad,Bike,2021-12-20,3100,4.5,90,82,3,7.8,24800,Yes,Senior

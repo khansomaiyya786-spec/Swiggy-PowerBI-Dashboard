@@ -1,0 +1,51 @@
+user_id,name,email,phone,city,state,age,gender,signup_date,subscription_type,total_orders,total_spent,last_order_date,referral_source,is_active
+USR-1042,Arjun Sharma,arjun.sharma@email.com,9841234567,Bengaluru,Karnataka,28,Male,2023-03-15,Swiggy One,47,9820,2025-07-17,Google,Yes
+USR-2031,Priya Mehta,priya.mehta@email.com,9912345678,Mumbai,Maharashtra,32,Female,2022-11-20,Swiggy One,63,12400,2025-07-20,Friend Referral,Yes
+USR-3018,Rahul Verma,rahul.verma@email.com,9723456789,Delhi NCR,Delhi,25,Male,2024-01-10,Free,18,3240,2025-07-03,Instagram Ad,Yes
+USR-4055,Sneha Reddy,sneha.reddy@email.com,9634567890,Hyderabad,Telangana,29,Female,2023-06-05,Swiggy One,52,10140,2025-07-19,TV Ad,Yes
+USR-1099,Vikram Nair,vikram.nair@email.com,9545678901,Bengaluru,Karnataka,35,Male,2022-08-12,Swiggy One,88,17200,2025-07-02,Organic,Yes
+USR-2088,Ananya Joshi,ananya.joshi@email.com,9456789012,Mumbai,Maharashtra,27,Female,2024-02-28,Free,12,2100,2025-07-06,Facebook Ad,Yes
+USR-5021,Karthik Iyer,karthik.iyer@email.com,9367890123,Pune,Maharashtra,31,Male,2023-09-18,Swiggy One,38,7600,2025-07-02,App Store,Yes
+USR-3077,Divya Gupta,divya.gupta@email.com,9278901234,Delhi NCR,Delhi,24,Female,2024-04-22,Free,8,1520,2025-07-02,Google,Yes
+USR-6010,Suresh Kumar,suresh.kumar@email.com,9189012345,Chennai,Tamil Nadu,42,Male,2022-05-30,Swiggy One,95,18600,2025-07-03,Organic,Yes
+USR-4082,Pooja Singh,pooja.singh@email.com,9090123456,Hyderabad,Telangana,26,Female,2024-03-14,Free,15,2900,2025-07-03,Instagram Ad,Yes
+USR-7033,Amit Das,amit.das@email.com,9901234567,Kolkata,West Bengal,33,Male,2023-07-08,Swiggy One,41,8200,2025-07-03,Friend Referral,Yes
+USR-8014,Meera Patel,meera.patel@email.com,9812345678,Ahmedabad,Gujarat,30,Female,2023-10-25,Free,22,4180,2025-07-04,TV Ad,Yes
+USR-5055,Rohit Pillai,rohit.pillai@email.com,9723456780,Pune,Maharashtra,28,Male,2023-12-01,Swiggy One,34,6800,2025-07-04,Google,Yes
+USR-3090,Lakshmi Rao,lakshmi.rao@email.com,9634567891,Delhi NCR,Delhi,38,Female,2022-09-14,Swiggy One,71,13900,2025-07-05,Organic,Yes
+USR-6022,Deepak Menon,deepak.menon@email.com,9545678902,Chennai,Tamil Nadu,27,Male,2024-05-10,Free,9,1710,2025-07-05,Instagram Ad,Yes
+USR-1075,Kavya Krishnan,kavya.krishnan@email.com,9456789013,Bengaluru,Karnataka,23,Female,2024-06-20,Free,6,1080,2025-07-05,Facebook Ad,Yes
+USR-4091,Sanjay Bhatt,sanjay.bhatt@email.com,9367890124,Hyderabad,Telangana,45,Male,2022-04-18,Swiggy One,102,19800,2025-07-06,Organic,Yes
+USR-2044,Nisha Kapoor,nisha.kapoor@email.com,9278901235,Mumbai,Maharashtra,31,Female,2023-08-29,Swiggy One,55,10780,2025-07-06,Google,Yes
+USR-9001,Ajay Pandey,ajay.pandey@email.com,9189012346,Bengaluru,Karnataka,36,Male,2022-12-05,Swiggy One,78,15200,2025-07-07,Organic,Yes
+USR-3055,Ritu Saxena,ritu.saxena@email.com,9090123457,Delhi NCR,Delhi,29,Female,2023-11-15,Free,19,3610,2025-07-07,Instagram Ad,Yes
+USR-7041,Sunil Bose,sunil.bose@email.com,9901234568,Kolkata,West Bengal,40,Male,2023-02-22,Swiggy One,46,9200,2025-07-07,Friend Referral,Yes
+USR-5078,Preethi Nair,preethi.nair@email.com,9812345679,Pune,Maharashtra,26,Female,2024-01-30,Free,11,2090,2025-07-08,TV Ad,Yes
+USR-8029,Hardik Shah,hardik.shah@email.com,9723456781,Ahmedabad,Gujarat,33,Male,2023-05-12,Swiggy One,39,7410,2025-07-08,Google,Yes
+USR-6044,Amrita Chandran,amrita.chandran@email.com,9634567892,Chennai,Tamil Nadu,28,Female,2024-02-14,Free,14,2520,2025-07-09,Instagram Ad,Yes
+USR-2062,Nikhil Desai,nikhil.desai@email.com,9545678903,Mumbai,Maharashtra,34,Male,2023-01-08,Swiggy One,67,13060,2025-07-10,Organic,Yes
+USR-4033,Swati Agarwal,swati.agarwal@email.com,9456789014,Hyderabad,Telangana,27,Female,2024-03-28,Free,10,1900,2025-07-10,Facebook Ad,Yes
+USR-3066,Vivek Tiwari,vivek.tiwari@email.com,9367890125,Delhi NCR,Delhi,32,Male,2023-04-16,Swiggy One,44,8800,2025-07-10,Google,Yes
+USR-9012,Ishaan Batra,ishaan.batra@email.com,9278901236,Bengaluru,Karnataka,22,Male,2024-07-01,Free,3,510,2025-07-11,App Store,Yes
+USR-5090,Gauri Joshi,gauri.joshi@email.com,9189012347,Pune,Maharashtra,30,Female,2023-06-30,Swiggy One,36,7200,2025-07-11,Friend Referral,Yes
+USR-7055,Debashish Roy,debashish.roy@email.com,9090123458,Kolkata,West Bengal,37,Male,2022-10-20,Swiggy One,58,11600,2025-07-11,Organic,Yes
+USR-2077,Tanvi Malhotra,tanvi.malhotra@email.com,9901234569,Mumbai,Maharashtra,25,Female,2024-04-05,Free,7,1330,2025-07-12,Instagram Ad,Yes
+USR-8041,Jignesh Modi,jignesh.modi@email.com,9812345680,Ahmedabad,Gujarat,41,Male,2022-07-14,Swiggy One,83,16200,2025-07-12,TV Ad,Yes
+USR-1088,Shruti Hegde,shruti.hegde@email.com,9723456782,Bengaluru,Karnataka,26,Female,2024-05-22,Free,5,900,2025-07-13,Google,Yes
+USR-6055,Arun Subramanian,arun.sub@email.com,9634567893,Chennai,Tamil Nadu,39,Male,2022-06-08,Swiggy One,91,17700,2025-07-13,Organic,Yes
+USR-4044,Bhavna Kumari,bhavna.kumari@email.com,9545678904,Hyderabad,Telangana,28,Female,2023-09-02,Free,23,4370,2025-07-14,Instagram Ad,Yes
+USR-3088,Manish Tripathi,manish.tri@email.com,9456789015,Delhi NCR,Delhi,44,Male,2022-03-25,Swiggy One,110,21400,2025-07-14,Organic,Yes
+USR-9025,Kritika Sharma,kritika.sharma@email.com,9367890126,Bengaluru,Karnataka,24,Female,2024-06-10,Free,4,680,2025-07-15,App Store,Yes
+USR-2090,Parth Doshi,parth.doshi@email.com,9278901237,Mumbai,Maharashtra,29,Male,2023-12-18,Swiggy One,31,6200,2025-07-15,Google,Yes
+USR-5101,Aishwarya Menon,aishwarya.menon@email.com,9189012348,Pune,Maharashtra,27,Female,2024-01-15,Free,13,2340,2025-07-16,Facebook Ad,Yes
+USR-7066,Rajesh Chatterjee,rajesh.chat@email.com,9090123459,Kolkata,West Bengal,48,Male,2021-11-30,Swiggy One,124,24200,2025-07-16,Organic,Yes
+USR-8055,Falak Shaikh,falak.shaikh@email.com,9901234570,Ahmedabad,Gujarat,25,Female,2024-03-08,Free,16,2880,2025-07-17,Instagram Ad,Yes
+USR-6066,Venkat Raman,venkat.raman@email.com,9812345681,Chennai,Tamil Nadu,35,Male,2023-02-10,Swiggy One,49,9800,2025-07-18,Friend Referral,Yes
+USR-3099,Pallavi Singh,pallavi.singh@email.com,9723456783,Delhi NCR,Delhi,31,Female,2023-07-22,Swiggy One,43,8600,2025-07-18,Google,Yes
+USR-4055,Sneha Reddy,sneha.reddy@email.com,9634567890,Hyderabad,Telangana,29,Female,2023-06-05,Swiggy One,52,10140,2025-07-19,TV Ad,Yes
+USR-9038,Rahul Khanna,rahul.khanna@email.com,9545678905,Bengaluru,Karnataka,30,Male,2023-10-14,Swiggy One,28,5600,2025-07-19,Google,Yes
+USR-2031,Priya Mehta,priya.mehta@email.com,9912345678,Mumbai,Maharashtra,32,Female,2022-11-20,Swiggy One,63,12400,2025-07-20,Friend Referral,Yes
+USR-1001,Rohit Kumar,rohit.kumar@email.com,9111234567,Bengaluru,Karnataka,26,Male,2021-06-10,Swiggy One,198,38200,2025-06-30,Organic,Yes
+USR-1002,Sneha Patil,sneha.patil@email.com,9222345678,Bengaluru,Karnataka,29,Female,2021-09-22,Swiggy One,156,30400,2025-06-28,Google,Yes
+USR-2001,Amit Shah,amit.shah@email.com,9333456789,Mumbai,Maharashtra,37,Male,2020-12-01,Swiggy One,245,47600,2025-06-30,Organic,Yes
+USR-4001,Priya Rao,priya.rao@email.com,9444567890,Hyderabad,Telangana,33,Female,2021-03-15,Swiggy One,187,36200,2025-06-29,Friend Referral,Yes
