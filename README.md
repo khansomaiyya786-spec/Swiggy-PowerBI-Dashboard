@@ -1,5 +1,4 @@
-# Swiggy-PowerBI-Dashboard
-Interactive Power BI Business Performance Dashboard for Swiggy
+
 # Swiggy Business Performance Dashboard
 
 ## Project Overview
